@@ -4,6 +4,7 @@ Tic Tac Toe game with the basic win prevention feature .
 (I repeated a few lines of code .Forgive me)
 
 The program basically contains 5 functions.
+
 1->The smartcomp function searches for a user win situation and blocks the pattern
 from being completed.
 
