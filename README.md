@@ -10,7 +10,7 @@ from being completed.
 
 2->The WinCheck function checks and produces the result of the game.
 
-3->The choice function gives the user the ability to choose a his/her preferred marker.
+3->The choice function gives the user the ability to choose  his/her preferred marker.
 
 4->The game function controls the flow of the game (takes input and calls different functions 
 to operate on the multidimensional array) 
